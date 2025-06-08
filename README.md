@@ -6,7 +6,7 @@ I started by building tools for myself and now I’m working on CrimeTech: devel
 As a creator, I follow my love for storytelling — whether through films 🎞️ or literature 📖 .
 I make content about movies, books, and everything in between.
 
-i love making content regarding litature books
+<img src="https://imgs.search.brave.com/LAD9a2Vl5wwRqGNxI26amZ2B-iuo8xZAaDWDBnwBW38/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvNS9QeXRo/b24tUE5HLnBuZw"/>
 <!--
 **frostship/frostship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
