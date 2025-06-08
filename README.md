@@ -1,4 +1,10 @@
-👾 Python • CrimeTech Enthusiast 🫆
+👾 Python • 🫆 CrimeTech Enthusiast
+
+I’m a Python developer and content creator passionate about solving real-world problems.
+I started by building tools for myself and now I’m working on CrimeTech: developing software to assist law enforcement and empower the public.
+
+As a creator, I follow my love for storytelling — whether through films 🎞️ or literature 📖 .
+I make content about movies, books, and everything in between.
 
 <!--
 **frostship/frostship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
